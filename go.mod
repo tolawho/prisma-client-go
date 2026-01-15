@@ -1,10 +1,11 @@
-module github.com/steebchen/prisma-client-go
+module github.com/tolawho/prisma-client-go
 
 go 1.21
 
 require (
 	github.com/joho/godotenv v1.5.1
 	github.com/shopspring/decimal v1.4.0
+	github.com/steebchen/prisma-client-go v0.47.0
 	github.com/stretchr/testify v1.10.0
 	go.mongodb.org/mongo-driver/v2 v2.2.2
 )
